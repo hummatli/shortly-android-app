@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Shortly</string>
+    <string name="splash_title">Shortly</string>
+
+    <string name="unknown_error_title">Something wrong</string>
+    <string name="unknown_error_text">Sorry, unexpected error has happened. Please try again later</string>
+    <string name="close">Close</string>
+    <string name="no_internet_title">No internet connection</string>
+    <string name="no_internet_error_text">There is no or poor internet connection in your device</string>
+    <string name="loading_dialog_title">Please wait</string>
+    <string name="loading_dialog_description">We’re loading details…</string>
+    <string name="error_unexpected">It look like an error has occurred. Please, try again a little bit later</string>
+
+    <string name="share_a_link">Shorten a link here …</string>
+    <string name="please_add_a_link">Please add a link here</string>
+    <string name="empty_scr_title">Let’s get started!</string>
+    <string name="empty_scr_body">Paste your first link into the field to shorten it</string>
+    <string name="history_scr_title">Your Link History</string>
+    <string name="copy">Copy</string>
+    <string name="copied">Copied!</string>
+    <string name="url_copied">Link copied!</string>
+    <string name="shorten_it">Shorten it!</string>
+    <string name="created_new_link">You created a new link</string>
+    <string name="deleted_link">You deleted the link successfully</string>
+    <string name="deleted_link_error">Couldn’t delete link. Please try again later</string>
+</resources>
